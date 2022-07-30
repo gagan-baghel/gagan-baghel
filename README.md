@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+
 <h1 align="center">Hi there 👋 I'm <span style="font-size:60px; color:rgb(234, 83, 83);"> Gagan Baghel </span> </h1>
 
 
@@ -14,15 +6,15 @@
 
  
 - 👨‍🎓I am Gagan Singh Baghel, currently embarking on my engineering journey from  
-SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Maharastra.<br/>
-- #1 Rank in my collage in geeks_for_geeks (Gfg) coding contest.<br/>
-- 💻I am a **full-stack web developer** and a **Competitive Programmer**<br/>
-- I love❤ to solve challanges and make **exciting projects**. <br/>
-- I really enjoy learning🚀 new languages and frameworks like **React⚛ **.<br/>
-- I also like working with **python🐍** and developing projects in it .<br/>
+SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Maharashtra.<br/>
+- #1 Rank in my college in geeks_for_geeks (Gfg) coding contest.<br/>
+- 💻I am a ##full-stack web developer and a #Competitive Programmer<br/>
+- I love❤ to solve challenges and make exciting projects. <br/>
+- I really enjoy learning🚀 new languages and frameworks like #React⚛ .<br/>
+- I also like working with #python🐍 and developing projects in it .<br/>
 - 🔭 I’m currently working on a fullstack app.<br/>
 - 🌱 I’m currently learning to build progressive web apps(PWA's).<br/>
-- I an a MERN developer
+- I am a MERN developer
 
 <h1>Technical Skills 🛠</h1>
 
@@ -87,5 +79,3 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 ---
 
 Leave a ⭐ from (https://github.com/gagan-baghel/gagan-baghel) if you like 😁
-</body>
-</html>
