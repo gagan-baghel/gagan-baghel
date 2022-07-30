@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 <h1 align="center">Hi there 👋 I'm <span style="font-size:60px; color:rgb(234, 83, 83);"> Gagan Baghel </span> </h1>
 
 
@@ -79,3 +88,5 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 ---
 
 Leave a ⭐ from (https://github.com/gagan-baghel/gagan-baghel) if you like 😁
+</body>
+</html>
