@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 I'm <span style="font-size:60px; color:rgb(234, 83, 83);"> Gagan Baghel </span> </h1>
 
 
-<p align="center" style="width:100%" ><img style="width:100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&theme=cobalt" alt="gagan-baghel" /></p>
+<p align="center" style="width:100%" ><img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&theme=cobalt" alt="gagan-baghel" /></p>
 
  
 - 👨‍🎓I am Gagan Singh Baghel, currently embarking on my engineering journey from  
