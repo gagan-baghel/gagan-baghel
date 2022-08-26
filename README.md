@@ -3,6 +3,9 @@
 
 
 <p align="center" style="width:100%" ><img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&theme=cobalt" alt="gagan-baghel" /></p>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=gagan-baghel&show_icons=true&theme=cobalt"></img>
+</div>
 
  
 - 👨‍🎓I am Gagan Singh Baghel, currently embarking on my engineering journey from  
