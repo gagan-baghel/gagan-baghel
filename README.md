@@ -4,7 +4,7 @@
 
 <p align="center" style="width:100%" ><img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&show_icons=true&theme=cobalt" alt="gagan-baghel" /></p>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=gagan-baghel&show_icons=true&theme=cobalt"></img>
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
 
  
