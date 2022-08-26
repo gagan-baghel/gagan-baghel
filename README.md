@@ -3,9 +3,7 @@
 
 
 <p align="center" style="width:100%" ><img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&show_icons=true&theme=cobalt" alt="gagan-baghel" /></p>
-<div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-</div>
+
 
  
 - 👨‍🎓I am Gagan Singh Baghel, currently embarking on my engineering journey from  
@@ -46,6 +44,10 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=gagan-baghel&show_icons=true&theme=cobalt"></img>
+</div>
+
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
 
 ## Connect with me  
