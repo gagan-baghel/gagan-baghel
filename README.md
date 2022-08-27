@@ -48,7 +48,9 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 
 <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-baghel&theme=tokyonight&layout=compact" /> </br> 
 </div>
+
 
 ## Connect with me  
 <div align="center">
