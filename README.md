@@ -2,7 +2,9 @@
 <h1 align="center">Hi there 👋 I'm <span style="font-size:60px; color:rgb(234, 83, 83);"> Gagan Baghel </span> </h1>
 
 
-<p align="center" style="width:100%" ><img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&show_icons=true&theme=synthwave" alt="gagan-baghel" /></p>
+<p align="center" style="width:90%" >
+ <img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&show_icons=true&theme=synthwave" alt="gagan-baghel" />
+</p>
 
 
  
@@ -43,12 +45,12 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=gagan-baghel&show_icons=true&theme=cobalt"></img>
+   <img  src="https://github-readme-stats.vercel.app/api?username=gagan-baghel&show_icons=true&theme=cobalt"></img>
+   <img height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-baghel&show_icons=true&theme=cobalt&layout=compact" /> 
 </div>
 
 <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-baghel&theme=tokyonight&layout=compact" /> </br> 
 </div>
 
 
@@ -79,7 +81,6 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/gagan-baghel.svg?style=social&label=Follow"></img>
-
 <img src="https://gpvc.arturio.dev/gagan-baghel"></img>
 </div>
 
