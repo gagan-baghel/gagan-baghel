@@ -18,7 +18,8 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 - 🔭 I’m currently working on a fullstack app.<br/>
 - 🌱 I’m currently learning to build progressive web apps(PWA's).<br/>
 - I am a MERN developer
-
+ 
+ 
 <h1>Technical Skills 🛠</h1>
 
 
