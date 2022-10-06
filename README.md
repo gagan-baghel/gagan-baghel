@@ -3,7 +3,8 @@
 
 <p align="center" style="width:90%" > 
  <img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&show_icons=true&theme=synthwave" alt="gagan-baghel" />
-</p> 
+</p>  
+
 - 👨‍🎓I am Gagan Singh Baghel, currently embarking on my engineering journey from  
 SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Maharashtra.<br/>
 - #1 Rank in my college in geeks_for_geeks (Gfg) coding contest.<br/>
