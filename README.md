@@ -9,13 +9,12 @@
 
 - 👨‍🎓I am Gagan Singh Baghel, currently embarking on my engineering journey from  
 SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Maharashtra.<br/>
-- #1 Rank in my college in geeks_for_geeks (Gfg) coding contest.<br/>
-- 💻I am a ##full-stack web developer and a #Competitive Programmer<br/>
-- I love❤ to solve challenges and make exciting projects. <br/>
+- #1 Rank in my college in geeks_for_geeks (Gfg) coding Practice platform.<br/>
+- 💻I am a ##full-stack web developer and a #Problem Solver<br/>
+- I love ❤ to solve challenges and make exciting projects. <br/>
 - I really enjoy learning🚀 new languages and frameworks like #React⚛ .<br/>
 - I also like working with #python🐍 and developing projects in it .<br/>
-- 🔭 I’m currently working on a fullstack app.<br/>
-- 🌱 I’m currently learning to build progressive web apps(PWA's).<br/>
+- 🔭 I’m currently working on a fullstack website.<br/>
 - I am a MERN developer
 
 
