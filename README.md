@@ -52,8 +52,8 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
 
-
 ## Connect with me  
+
 <div align="center">
  <a href="https://www.linkedin.com/in/gagan-singh-baghel-0a894220b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -85,7 +85,7 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 
 </div>
 
----
+-----
 
 Leave a ⭐ from (https://github.com/gagan-baghel/gagan-baghel) if you like 😁
 
