@@ -1,4 +1,3 @@
-
 <h1  align="center">Hi there 👋 I'm <span style="font-size:60px; color:rgb(234, 83, 83);"> Gagan Baghel </span> </h1>
 
 <p align="center" style="width:90%" > 
