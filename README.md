@@ -13,9 +13,6 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 - I also like working with #python🐍 and developing projects in it .<br/>
 - 🔭 I’m currently working on a fullstack website.<br/>
 - I am a MERN developer
-
-
- 
  
 <h1>Technical Skills 🛠</h1>
 
