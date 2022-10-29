@@ -42,7 +42,7 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 
 <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api?username=gagan-baghel&show_icons=true&theme=cobalt"></img>
-   <img height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-baghel&show_icons=true&theme=cobalt&layout=compact" /> 
+   <img height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-baghel&show_icons=true&theme=react-dark&layout=compact" /> 
 </div>
 
 <div align="center">
