@@ -1,7 +1,7 @@
 <h1  align="center">Hi there 👋 I'm <span style="font-size:60px; color:rgb(234, 83, 83);"> Gagan Baghel </span> </h1>
 <p align="center" style="width:90%" > 
  <img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&show_icons=true&theme=synthwave" alt="gagan-baghel" />
-</p>
+</p> 
 - 👨‍🎓I am Gagan Singh Baghel, currently embarking on my engineering journey from  
 SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Maharashtra.<br/>
 - #1 Rank in my college in geeks_for_geeks (Gfg) coding Practice platform.<br/>
