@@ -49,7 +49,6 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 </div>
 
 ## Connect with me  
-
 <div align="center">
  <a href="https://www.linkedin.com/in/gagan-singh-baghel-0a894220b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
