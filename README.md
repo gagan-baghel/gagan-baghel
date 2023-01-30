@@ -56,7 +56,6 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 <a href="https://stackoverflow.com/users/15969841/gagan-baghel" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://www.instagram.com" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
