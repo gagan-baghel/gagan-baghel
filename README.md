@@ -61,6 +61,7 @@ SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Mahar
 </a>
 </div>
 <div align="center">
+ 
 <img src="https://img.shields.io/github/followers/gagan-baghel.svg?style=social&label=Follow"></img>
 <img src="https://gpvc.arturio.dev/gagan-baghel"></img>
 
