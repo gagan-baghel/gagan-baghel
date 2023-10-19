@@ -2,14 +2,11 @@
 <p align="center" style="width:90%" > 
  <img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-baghel&show_icons=true&theme=synthwave" alt="gagan-baghel" />
 </p>
-- 👨‍🎓I am Gagan Singh Baghel, currently embarking on my engineering journey from  
-SB Jain Institute of Technology Management and Research (SBJITMR) Nagpur , Maharashtra.<br/>
-- #1 Rank in my college in geeks_for_geeks (Gfg) coding Practice platform.<br/>
-- 💻I am a ##full-stack web developer and a #Problem Solver<br/>
+- 👨‍🎓I am Gagan Singh Baghel, a ##full-stack web developer and a #Problem Solver<br/>
+- #1 Rank in my college in geeks_for_geeks (Gfg) coding Practice platform.  (SBJITMR) Nagpur , Maharashtra.<br/>
 - I love ❤ to solve challenges and make exciting projects. <br/>
-- I really enjoy learning🚀 new languages and frameworks like #React⚛ .<br/>
+- I really enjoy learning🚀 new languages and librarys like #React⚛ .<br/>
 - I also like working with #python🐍 and developing projects in it .<br/>
-- 
 - 🔭 I’m currently working on a fullstack website.
 - I am a MERN developer
 <h1>Technical Skills 🛠</h1> 
