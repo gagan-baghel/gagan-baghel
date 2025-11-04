@@ -1,6 +1,6 @@
 # GAGAN BAGHEL  
 **Pune, Maharashtra, India**  
-+91 83196 99485 | gaganbaghelofficial@gmail.com  
+gaganbaghelofficial@gmail.com  
 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
 
 ---
