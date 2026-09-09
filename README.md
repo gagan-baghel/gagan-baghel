@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=650&lines=Gagan+Baghel;Forward+Deployed+Engineer+%7C+Full+Stack+%7C+AI+%7C+Product+Engineering;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Gagan Baghel — typing banner">
 </a>
 
+<p><b>Forward Deployed Engineer | Full Stack | AI | Product Engineering</b></p>
+
 <p>
   Pune, Maharashtra, India ·
   <a href="mailto:gaganbaghelofficial@gmail.com">gaganbaghelofficial@gmail.com</a>
