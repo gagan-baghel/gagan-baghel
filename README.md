@@ -23,7 +23,7 @@
 
 ## Professional Summary
 
-Forward Deployed Engineer with 2+ years of experience embedding directly with clients to scope, build and ship production software fast — often solo, end to end, from first requirements call to a live deployment. Have shipped bespoke platforms across a dozen+ verticals — legal, healthcare, real estate, fitness, hospitality, education — picking whatever stack (**React**, **Next.js**, **TypeScript**, **Node.js**, **Express**, **MongoDB**, **Prisma**) the problem calls for. Comfortable owning the full loop: requirements, architecture, integration with the client's existing systems, and **ETL / data pipeline** work when the problem is more data than UI. Known for turning around production-ready features under tight deadlines while working directly with the people who'll use them.
+Forward Deployed Engineer and Full Stack Developer with 2+ years of experience embedding directly with clients to scope, build and ship production software fast — often solo, end to end, from first requirements call to a live deployment. Have shipped bespoke platforms across a dozen+ verticals — legal, healthcare, real estate, fitness, hospitality, education — picking whatever stack (**React**, **Next.js**, **TypeScript**, **Node.js**, **Express**, **MongoDB**, **Prisma**) the problem calls for. Comfortable owning the full loop: requirements, architecture, integration with the client's existing systems, and **ETL / data pipeline** work when the problem is more data than UI. Known for turning around production-ready features under tight deadlines while working directly with the people who'll use them.
 
 <div align="center">
 
