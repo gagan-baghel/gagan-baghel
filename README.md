@@ -1,25 +1,33 @@
-<h1 align="center">Gagan Baghel</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Software Engineer</b> · React · Next.js · TypeScript · Node.js · MongoDB · PostgreSQL · AI Integration
-</p>
+<a href="https://github.com/gagan-baghel">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=650&lines=Gagan+Baghel;Full-Stack+Software+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+AI-integrated+web+products" alt="Gagan Baghel — typing banner">
+</a>
 
-<p align="center">
+<p>
   Pune, Maharashtra, India ·
   <a href="mailto:gaganbaghelofficial@gmail.com">gaganbaghelofficial@gmail.com</a>
 </p>
 
-<p align="center">
-  <a href="https://gagan-baghel.github.io/gagan_baghel_Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/gagan-baghel?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:gaganbaghelofficial@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<a href="https://gagan-baghel.github.io/gagan_baghel_Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/gagan-baghel?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:gaganbaghelofficial@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<img src="https://komarev.com/ghpvc/?username=gagan-baghel&style=for-the-badge&color=000000&label=Profile+Views" alt="profile views">
+
+</div>
 
 ---
 
 ## Professional Summary
 
 Front-End Developer with 2+ years of experience in building and optimizing scalable, high-performance web applications. Highly skilled in **React.js**, **Next.js**, **TypeScript**, **Node js**, **Express js**, **MongoDB** and modern **UI/UX architecture**. Adept at bridging design and engineering to deliver visually engaging, efficient, and maintainable products. Experienced in **ETL data processing**, **backend integration**, and **frontend performance optimization**, achieving measurable results such as a 45% improvement in load times and a 50% reduction in data pipelines. Known for delivering robust, production-ready features under tight deadlines in cross-functional global teams.
+
+<div align="center">
+
+![tech stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,prisma,tailwind,git,vercel&perline=12)
+
+</div>
 
 ---
 
@@ -73,13 +81,22 @@ Front-End Developer with 2+ years of experience in building and optimizing scala
 
 ## Featured Projects
 
+### Flagship Products
+
+| Project | What it does | Stack |
+|---|---|---|
+| **LexOrchestrate** *(private repo)* · [live](https://lexorchestrate.vercel.app) | Desktop legal workspace for advocates — matters, case papers and deadlines in one place, running locally on the user's own machine. | Next.js · Desktop app |
+| **Kostry** *(private repo)* · [live](https://www.kostry.in) | Collaborative storytelling platform — create, branch and explore stories together; every reader can become a co-author. | Next.js |
+
 ### AI &amp; Automation
 
 | Project | What it does | Stack |
 |---|---|---|
 | **[Receiptful](https://github.com/gagan-baghel/receiptful)** · [live](https://mobile-receipt-management-app.vercel.app) | Captures receipts and invoices and extracts every field with Claude vision, then organises them into workspaces, folders, budgets and approvals and exports tax-ready reports. Every extracted value is re-verified arithmetically before it is stored. | Next.js 15 · Convex · Convex Auth · Claude API · Tailwind CSS |
 | **[PersonaPost](https://github.com/gagan-baghel/PostPersona)** · [live](https://post-persona-pcw3.vercel.app) | LinkedIn-first content automation workspace: persona-driven post and image generation, an approval-first review queue, weekly campaign planning, queue-aware scheduling and LinkedIn OAuth publishing. | Next.js · Convex · Gemini / OpenAI / Hugging Face · LinkedIn API · Razorpay |
-| **[IntelleCraft — EdTech Platform](https://github.com/gagan-baghel/EdTechPlatform)** · [live](https://ed-tech-platform-blue.vercel.app) | Courses, quizzes, certificates, live sessions, subscriptions and affiliate payouts, with a Claude-powered AI tutor and authoring copilot. Next.js UI and an Express REST API in a single deployment. | Next.js · Express · MongoDB · JWT · Razorpay · Cloudinary · Vitest + Supertest |
+| **[IntelleCraft — EdTech Platform](https://github.com/gagan-baghel/EdTechPlatform)** · [live](https://ed-tech-platform-three.vercel.app) | Courses, quizzes, certificates, live sessions, subscriptions and affiliate payouts, with a Claude-powered AI tutor and authoring copilot. Next.js UI and an Express REST API in a single deployment. | Next.js · Express · MongoDB · JWT · Razorpay · Cloudinary · Vitest + Supertest |
+| **[Forge](https://github.com/gagan-baghel/forge)** · [live](https://docs-eta-sooty.vercel.app) | Local-first workspace for building, running and sharing AI agents on your own machine — no account, no cloud, no telemetry. | Next.js |
+| **AI Clinic Receptionist** *(private repo)* · [live](https://ai-clinic-calling-agent.vercel.app) | AI receptionist for a dental clinic that checks appointment availability, books calendar slots and helps patients schedule visits automatically. | Node.js · Voice / Calendar APIs |
 | **[ButtlerAI](https://github.com/gagan-baghel/ButtlerAI)** | Browser-based AI assistant — Gemini chat, client-side image OCR with Tesseract.js and speech output. | React · Vite · Redux · Google Gemini · Tesseract.js |
 
 ### Full-Stack Products
@@ -93,6 +110,8 @@ Front-End Developer with 2+ years of experience in building and optimizing scala
 | **[Gym Manager](https://github.com/gagan-baghel/gym-manager)** · [live](https://gym-management-theta-gules.vercel.app) | Membership, class scheduling, billing and equipment management for gym owners, plus a member-facing app. | Next.js 15 · MongoDB / Mongoose · JOSE JWT · Server Actions · Recharts |
 | **[Serene Marketplace](https://github.com/gagan-baghel/serene-maid-marketplace)** · [live](https://serene-marketplace.vercel.app) | Two-sided marketplace for verified domestic home services — provider applications and vetting, slot-based booking, plans and payments, reviews, reports and notifications. | Next.js 15 · Convex · Razorpay |
 | **[Discovery Intelligence Platform](https://github.com/gagan-baghel/discovery-call-tool)** · [live](https://discovery-call-tool-eta.vercel.app) | Scores 76 discovery signals across 10 business pillars and generates boardroom-ready PDF growth reports, with HMAC SHA-256 signed session cookies and sliding-window rate limiting. | Next.js 15 · Convex · jsPDF · Puppeteer · Recharts |
+| **[Consistency Manager](https://github.com/gagan-baghel/Consistency-Manager)** · [live](https://consistency-manager.vercel.app) | Earnings & sprints tracker — logs weekly earnings and runs focused 15-day sprints toward productivity and financial goals. | Next.js |
+| **Good & Taste — Mess** *(private repo)* · [live](https://food-taste-mess.vercel.app) | Mess management and meal distribution system built for a restaurant LLC. | Next.js |
 
 ### Systems, Data &amp; Fundamentals
 
@@ -108,20 +127,25 @@ Front-End Developer with 2+ years of experience in building and optimizing scala
 
 Marketing and product front ends built with the Next.js App Router, Tailwind CSS, shadcn/ui, Framer Motion and GSAP:
 
-[Swiss Design Studio](https://github.com/gagan-baghel/swissDesign) ·
-[ELECTRA](https://github.com/gagan-baghel/electra) ·
-[AI Watch](https://github.com/gagan-baghel/ai-watch) ·
-[Prestige Properties](https://github.com/gagan-baghel/prestige-properties) ·
-[LUXORIA](https://github.com/gagan-baghel/luxoria) ·
-[Wagasa](https://github.com/gagan-baghel/japanese-wagasa) ·
-[CINEVERSE OTT](https://github.com/gagan-baghel/OTTPlatform) ·
-[Comtine Studio](https://github.com/gagan-baghel/comtine-studio) ·
-[Four Quadrant Holdings](https://github.com/gagan-baghel/fourquad-realestate) ·
-[Supes](https://github.com/gagan-baghel/Supes) ·
-[Balanz](https://github.com/gagan-baghel/Fitness-Balanz) ·
-[Bright Smiles Dental](https://github.com/gagan-baghel/dental-website) ·
-[Interior Design Studio](https://github.com/gagan-baghel/InteriorDesignerWebsite) ·
-[Horizontal Portfolio](https://github.com/gagan-baghel/HorizontalPortfolio)
+| Project | Live |
+|---|---|
+| **[ARCHĒ — Real Estate](https://github.com/gagan-baghel/RealState)** | [live](https://real-state-iota-jet.vercel.app) |
+| **[Four Quadrant Holdings](https://github.com/gagan-baghel/fourquad-realestate)** | [live](https://fourquad-realestate.vercel.app) |
+| **[Prestige Properties](https://github.com/gagan-baghel/prestige-properties)** | [live](https://prestige-properties-ten.vercel.app) |
+| **[Swiss Design Studio](https://github.com/gagan-baghel/swissDesign)** | [live](https://swiss-design-ten.vercel.app) |
+| **[ELECTRA](https://github.com/gagan-baghel/electra)** | [live](https://electra-red.vercel.app) |
+| **[AI Watch](https://github.com/gagan-baghel/ai-watch)** | [live](https://ai-watch-zeta.vercel.app) |
+| **[LUXORIA](https://github.com/gagan-baghel/luxoria)** | [live](https://luxoria-coral.vercel.app) |
+| **[Wagasa](https://github.com/gagan-baghel/japanese-wagasa)** | [live](https://japanese-wagasa.vercel.app) |
+| **[CINEVERSE OTT](https://github.com/gagan-baghel/OTTPlatform)** | [live](https://ott-platform-six.vercel.app) |
+| **[Comtine Studio](https://github.com/gagan-baghel/comtine-studio)** | [live](https://comtine-studio.vercel.app) |
+| **[Supes](https://github.com/gagan-baghel/Supes)** | [live](https://supes-three.vercel.app) |
+| **[Balanz](https://github.com/gagan-baghel/Fitness-Balanz)** | [live](https://fitness-balanz.vercel.app) |
+| **[Bright Smiles Dental](https://github.com/gagan-baghel/dental-website)** | [live](https://dental-website-two-ashen.vercel.app) |
+| **[Interior Design Studio](https://github.com/gagan-baghel/InteriorDesignerWebsite)** | [live](https://furniture-website-blush-five.vercel.app) |
+| **[Horizontal Portfolio](https://github.com/gagan-baghel/HorizontalPortfolio)** | [live](https://horizontal-portfolio-rosy.vercel.app) |
+| **[Law Firm — Legal Excellence](https://github.com/gagan-baghel/LawFirm)** | [live](https://law-firm-pi-seven.vercel.app) |
+| **Lawyer Website** *(private repo)* | [live](https://lawyerwebsite-pi.vercel.app) |
 
 ---
 
@@ -157,22 +181,6 @@ Marketing and product front ends built with the Next.js App Router, Tailwind CSS
 
 ---
 
-## **Projects**
-
-### **EdTech Learning Platform (Live)**
-- Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) for scalability and maintainability.  
-- Developed RESTful APIs for course management and user interactions.  
-- Implemented **JWT-based authentication** for secure access control.  
-- Integrated **Razorpay** for payment handling and **Cloudinary** for media storage and optimization.
-
-### **Video Meet (Video Conferencing App) (Live)**
-- Designed and developed a real-time, high-quality video conferencing app using **Next.js** and **React.js**.  
-- Integrated **Stream SDK** for seamless live video functionality.  
-- Utilized **Radix UI** for accessible UI components and **Tailwind CSS** for responsive design.  
-- Implemented **date-fns** for scheduling and **UUID** for secure session management.
-
----
-
 ## **Education**
 
 **Bachelor of Engineering (B.E), Computer Science**  
@@ -199,6 +207,6 @@ Rashtrasant Tukadoji Maharaj Nagpur University | Nagpur, Maharashtra
 ---
 
 <p align="center">
-  <img height="165" alt="Gagan Baghel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gagan-baghel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-baghel&layout=compact&hide_border=true&langs_count=8">
+  <img height="165" alt="Gagan Baghel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gagan-baghel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark">
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-baghel&layout=compact&hide_border=true&langs_count=8&theme=dark">
 </p>
