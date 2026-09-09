@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/gagan-baghel">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=650&lines=Gagan+Baghel;Full-Stack+Software+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+AI-integrated+web+products" alt="Gagan Baghel — typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=650&lines=Gagan+Baghel;Forward+Deployed+Engineer+%7C+Full+Stack+%7C+AI+%7C+Product+Engineering;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Gagan Baghel — typing banner">
 </a>
 
 <p>
@@ -21,7 +21,7 @@
 
 ## Professional Summary
 
-Front-End Developer with 2+ years of experience in building and optimizing scalable, high-performance web applications. Highly skilled in **React.js**, **Next.js**, **TypeScript**, **Node js**, **Express js**, **MongoDB** and modern **UI/UX architecture**. Adept at bridging design and engineering to deliver visually engaging, efficient, and maintainable products. Experienced in **ETL data processing**, **backend integration**, and **frontend performance optimization**, achieving measurable results such as a 45% improvement in load times and a 50% reduction in data pipelines. Known for delivering robust, production-ready features under tight deadlines in cross-functional global teams.
+Forward Deployed Engineer with 2+ years of experience embedding directly with clients to scope, build and ship production software fast — often solo, end to end, from first requirements call to a live deployment. Have shipped bespoke platforms across a dozen+ verticals — legal, healthcare, real estate, fitness, hospitality, education — picking whatever stack (**React**, **Next.js**, **TypeScript**, **Node.js**, **Express**, **MongoDB**, **Prisma**) the problem calls for. Comfortable owning the full loop: requirements, architecture, integration with the client's existing systems, and **ETL / data pipeline** work when the problem is more data than UI. Known for turning around production-ready features under tight deadlines while working directly with the people who'll use them.
 
 <div align="center">
 
